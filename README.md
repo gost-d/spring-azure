@@ -1,1 +1,1 @@
-# spring-azure
+# azure-spring
