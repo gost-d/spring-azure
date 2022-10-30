@@ -10,7 +10,4 @@
     </inbound>
     <backend />
     <outbound />
-    <on-error>
-        <base />
-    </on-error>
 </policies>
